@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635164135 source:c:\users\lara\desktop\parcialprogi\funciones\notebook.c
+	"notebook.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1635164135 c:\users\lara\desktop\parcialprogi\funciones\notebook.h
+
+1635164152 source:c:\users\lara\desktop\parcialprogi\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+
